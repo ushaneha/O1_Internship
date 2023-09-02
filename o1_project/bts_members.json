@@ -1,0 +1,52 @@
+[
+    {
+        "name": "RM",
+        "real_name": "Kim Namjoon",
+        "photo_url": "static/bts_images/rm.jpg",
+        "dob": "September 12, 1994",
+        "position": "Leader, Rapper, Producer, Song-writer"
+    },
+    {
+        "name": "Jin",
+        "real_name": "Kim Seokjin",
+        "photo_url": "static/bts_images/jin.jpg",
+        "dob": "December 4, 1992",
+        "position": "Vocalist, Producer, Song-writer"
+    },
+    {
+        "name": "Jimin",
+        "real_name": "Park Jimin",
+        "photo_url": "static/bts_images/jimin.jpg",
+        "dob": "October 13, 1995",
+        "position": "Vocalist, Dancer, Producer, Song-writer"
+    },
+    {
+        "name": "Jungkook",
+        "real_name": "Jeon Jungkook",
+        "photo_url": "static/bts_images/jungkook.jpg",
+        "dob": "September 1, 1997",
+        "position": "Vocalist, Dancer, Producer, Song-writer"
+    },
+    {
+        "name": "V",
+        "real_name": "Kim Taehyung",
+        "photo_url": "static/bts_images/v.jpg",
+        "dob": "December 30, 1995",
+        "position": "Vocalist, Producer, Song-writer"
+    },
+    {
+        "name": "Suga",
+        "real_name": "Min Yoongi",
+        "photo_url": "static/bts_images/suga.jpg",
+        "dob": "March 9, 1993",
+        "position": "Rapper, Producer, Producer, Song-writer"
+    },
+    {
+        "name": "J-hope",
+        "real_name": "Jung Hoseok",
+        "photo_url": "static/bts_images/jhope.jpg",
+        "dob": "February 18, 1994",
+        "position": "Rapper, Dancer, Producer, Song-writer"
+    }
+    
+]

@@ -1,0 +1,24 @@
+{% load static %} 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BTS</title>
+    <link rel="stylesheet" href="{% static 'task.css' %}">
+</head>
+    <div class="overlay">
+        <div class="h1">
+            <h1>BTS</h1>
+            <p>BTS, an acronym of Bangtan Sonyeondan or “Beyond the Scene,” is a Grammy-nominated South Korean group that has been capturing the hearts of millions of fans(A.R.M.Y) globally since its debut in June 2013.</p>
+        </div>
+        
+        <h2>~~ {{ bts_member.name }} ~~</h2>
+        <img  src="{{ bts_member.photo_url }}" alt="{{ bts_member.name }}" width="200">
+        <p>{{ bts_member.real_name }}</p>
+        <p>{{ bts_member.dob }}</p>
+        <p>{{ bts_member.position }}</p>
+        <br><br>
+        <a href="{% url 'task' %}">Click here to change member</a>
+    </div>
+    
+</body>
+</html>
